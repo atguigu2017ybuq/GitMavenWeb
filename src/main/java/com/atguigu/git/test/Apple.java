@@ -6,6 +6,7 @@ public class Apple {
 		System.out.println("edit by xiao ling ling ...");
 		System.out.println("edit by xiao ling ling ...");
 		System.out.println("edit by xiao ling ling ...");
+		System.out.println("AAAAAAAAAA");
 	}
 
 }
