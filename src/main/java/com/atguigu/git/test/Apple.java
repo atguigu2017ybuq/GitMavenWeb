@@ -9,6 +9,7 @@ public class Apple {
 		System.out.println("BBBBBBBBBBBBBBBB");
 		System.out.println("AAAAAAAAAA");
 		System.out.println("CCCCCCCCCCCCCC");
+		System.out.println("独孤九剑特别的厉害，特别的快！");
 	}
 
 }
